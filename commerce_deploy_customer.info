@@ -1,0 +1,10 @@
+name = Commerce Deploy Customer
+description = Provides customer enhancements
+core = 7.x
+package = Commerce Deploy
+project = commerce_deploy_customer
+
+dependencies[] = commerce_addressbook
+dependencies[] = commerce_customer
+dependencies[] = commerce_google_analytics
+dependencies[] = googleanalytics
