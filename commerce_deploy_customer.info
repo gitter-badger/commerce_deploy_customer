@@ -7,4 +7,5 @@ project = commerce_deploy_customer
 dependencies[] = commerce_addressbook
 dependencies[] = commerce_customer
 dependencies[] = commerce_google_analytics
+dependencies[] = commerce_message
 dependencies[] = googleanalytics
