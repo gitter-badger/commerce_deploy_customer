@@ -8,4 +8,7 @@ dependencies[] = commerce_addressbook
 dependencies[] = commerce_customer
 dependencies[] = commerce_google_analytics
 dependencies[] = commerce_message
+dependencies[] = entityreference
 dependencies[] = googleanalytics
+dependencies[] = message
+dependencies[] = message_notify
